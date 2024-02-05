@@ -11,12 +11,6 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/saraalkhoneen" target="blank"><img src="https://img.shields.io/twitter/follow/saraalkhoneen?logo=twitter&style=for-the-badge" alt="saraalkhoneen" /></a> </p>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sara-alkhoneen-%D8%B3%D8%A7%D8%B1%D8%A7-%D8%A7%D9%84%D8%AE%D9%86%D9%8A%D9%86-5a14a514a/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="sara alkhoneen" />
-  </a>
-</p>
 
 - 👀 I’m interested in web development.
   
